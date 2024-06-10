@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: Package_01
+Version: 0.0.1
+Summary: Meu primerio pacote
+Home-page: https://github.com/Victor-Ribeiro-Acosta/image-processing-package.git
+Author: Victor Acosta
+Author-email: victoracosta275@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # package_name
 
 Description. 
